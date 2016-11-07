@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             public void run() {
                 try {
                     if (!Brilliant.isInitialized()) {
-                        Brilliant.initialize(getApplicationContext(), "8763989873555555555976492");
+                        Brilliant.initialize(getApplicationContext(), "87639898735555555976492");
                     }
                 } catch (Exception e) {
                     e.printStackTrace();

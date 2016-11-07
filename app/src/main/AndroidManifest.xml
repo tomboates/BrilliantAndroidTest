@@ -15,7 +15,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <meta-data android:name="com.brilliant.sdk.ApplicationId" android:value="uE3OsX7v9FW7fgtPppuHSl8fGTlIdKFlq2-C9uTELnUTo__2iRjbPNVyhOg9jhU-f6pdr4wsOblmEYT8vBUIKA"/>
+        <meta-data android:name="com.brilliant.sdk.ApplicationId" android:value="@string/brilliant_app_id"/>
     </application>
 
     <uses-permission android:name="android.permission.INTERNET"/>
